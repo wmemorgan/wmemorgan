@@ -1,4 +1,4 @@
-#Hi, I'm Wilfred
+# Hi, I'm Wilfred
 
 I help organizations navigate the ever-changing technology landscape. I began my career as a system administrator and worked my way up to IT management. Eventually I started my own IT consulting business which expanded into software development.
 
